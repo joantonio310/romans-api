@@ -2,7 +2,7 @@
   "models": [
     {
       "attrs": [],
-      "description": "Represents a registered user",
+      "description": "Represents a registered user cambio",
       "name": "user"
     },
     {
